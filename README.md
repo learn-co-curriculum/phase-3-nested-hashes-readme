@@ -1,4 +1,4 @@
-# Nested Hashes
+# Introduction to Nested Hashes
 
 ## Learning Goals
 
@@ -8,7 +8,6 @@
 - Retrieve data from a nested hash.
 
 ## Introduction
-
 
 So far, we've seen hashes that store values in associated keys. In the hashes
 we've built up until now, each key points to a single value. Hashes are very
